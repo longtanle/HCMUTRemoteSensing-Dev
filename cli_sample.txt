@@ -1,0 +1,4 @@
+longlt_example.exe search --username longlt_hcmut --password longlt1870385 --dataset LANDSAT_8_C1 --location 10.82 106.62  --start 2020-04-01 --end 2020-05-30
+
+
+longlt_example.exe lst --metadata /home/netfpga/Workspace/remoteSensing/landsatData/LC08_L1TP_124053_20200420_20200508_01_T1/LC08_L1TP_124053_20200420_20200508_01_T1_MTL.txt

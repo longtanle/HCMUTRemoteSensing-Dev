@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['cli_sample.txt', 'longlt_example/cli.py', 'longlt_example/LSTRetriever.py', 'longlt_example/CalibrateLandsatBand.py', 'longlt_example/api.py', 'longlt_example/datamodels.py', 'longlt_example/earthexplorer.py', 'longlt_example/LandsatMetadataReader.py']
+
